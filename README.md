@@ -4,6 +4,13 @@
 
 Este é meu portfólio pessoal desenvolvido com HTML e CSS. Apresenta meus projetos, habilidades e formas de contato.
 
+## 👥 Equipe
+
+- **Caio Cesar Souza Barros**
+- **Pedro Arthur Santiago Lima**
+- **Maida Martins dos Santos**
+- **Reginaldo Ytalo Félix Mota**
+
 ## 📌 Funcionalidades
 
 - Página inicial com saudação
